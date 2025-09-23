@@ -1,5 +1,5 @@
 # Symon Bezerra da Nóbrega
-## Instagram: @pysymon
+## Instagram: @symon_bezerra_
 
 Última atualização do `README`: 22 set 2025.
 
