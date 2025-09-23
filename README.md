@@ -7,7 +7,7 @@
 
 - Data de nascimento: 20 fev. 2002
 - Residência: Santa Luzia, Paraíba, Brasil.
-- Emprego atual: Engenheiro de Dados, Buildaz (São Paulo, Brasil). Graduação: Júnior II.
+- Emprego atual: Engenheiro de Dados, Buildaz (São Paulo, Brasil). Graduação: Engineer II.
 
 ## Histórico e Curiosidades
 
