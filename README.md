@@ -1,7 +1,7 @@
 # Symon Bezerra da Nóbrega
 ## Instagram: @symon_bezerra_
 
-Última atualização do `README`: 22 set 2025.
+Última atualização do `README`: 30 set 2025.
 
 ## Informações Básicas
 
@@ -32,7 +32,7 @@ Estas são algumas das *stacks* com as quais trabalhei significativamente desde 
     + Pandas
     + Matplotlib
     + Seaborn
-    + Pyplot
+    + Plotly
     + Dash
 - Ecossistema PHP → **Intermediário**
     + Laravel
@@ -53,3 +53,4 @@ Estas são algumas das *stacks* com as quais trabalhei significativamente desde 
     + MySQL
 - Ecossistema C/C++ → **Intermediário**
     + Python C-Extensions
+    + Lua C API
