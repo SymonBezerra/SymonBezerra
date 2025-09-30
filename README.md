@@ -48,7 +48,7 @@ A tutoria Java possui a trilha para iniciantes, bem como a trilha para Spring Bo
 
 Especialmente para o público infanto-juvenil que deseja dar seus primeiros passos na programação, oferecemos também uma tutoria da linguagem de programação brasileira Lua, que é uma ótima porta de entrada para o mundo da programação.
 
-A tutoria Lua possui uma trilha iniciante, bem como uma trilha para desenvolvimento de jogos em Lua e desenvolvimento com a *Lua C API*.
+A tutoria Lua possui uma trilha iniciante, bem como uma trilha para desenvolvimento de jogos em Lua e também a trilha de desenvolvimento com a *Lua C API*.
 
 (O conteúdo desta mentoria ainda está em construção)
 
