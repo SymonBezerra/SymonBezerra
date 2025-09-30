@@ -42,7 +42,7 @@ A tutoria Java é pensada tanto para iniciantes de programação como para desen
 
 A tutoria Java possui a trilha para iniciantes, bem como a trilha para Spring Boot (MVC e REST).
 
-(O conteúdo desta mentoria ainda está em construção)
+(O conteúdo desta tutoria ainda está em construção)
 
 ### Tutoria Lua (recomendada para crianças e adolescentes)
 
@@ -50,7 +50,7 @@ Especialmente para o público infanto-juvenil que deseja dar seus primeiros pass
 
 A tutoria Lua possui uma trilha iniciante, bem como uma trilha para desenvolvimento de jogos em Lua e também a trilha de desenvolvimento com a *Lua C API*.
 
-(O conteúdo desta mentoria ainda está em construção)
+(O conteúdo desta tutoria ainda está em construção)
 
 <hr>
 
