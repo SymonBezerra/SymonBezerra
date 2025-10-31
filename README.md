@@ -1,7 +1,7 @@
 # Symon Bezerra da Nóbrega
 ## Instagram: @symon_bezerra_
 
-Última atualização do `README`: 30 set 2025.
+Última atualização do `README`: 31 out. 2025.
 
 ## Informações Básicas
 
