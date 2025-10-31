@@ -20,38 +20,6 @@
 - Sou missionário da Comunidade Católica Shalom, como Comunidade de Aliança, na missão de Patos, Paraíba.
 - Sou músico, toco alguns instrumentos, como violão, teclado, cajón, e também canto (sou tenor).
 
-## Tutorias
-
-Ofereço tutorias via Google Meet (contratadas por hora-aula). Neste perfil do GitHub, você encontra **tutoriais gratuitos** sobre algumas tecnologias. Contratando a tutoria, você terá um atendimento individualizado, exercícios e roteiros de projeto para acompanhar o seu estudo dos tutoriais gratuitos.
-
-> Para saber mais sobre as tutorias via Google Meet, sobre valores e horários, contate-me no Instagram `@symon_bezerra_`.
-
-As tutorias oferecidas são as seguintes:
-
-### Tutoria Python
-
-Esta tutoria é pensada para os iniciantes no mundo da programação que desejam conhecer mais sobre a linguagem Python, bem como a desenvolvedores que já possuem conhecimento de lógica de programação, mas desejam se aprofundar.
-
-A tutoria Python se aprofunda em Python no nível básico, e também para análise de dados e Web.
-
-O conteúdo desta tutoria se encontra no repositório [Tutorial Python](https://github.com/SymonBezerra/tutorial-python).
-
-### Tutoria Java
-
-A tutoria Java é pensada tanto para iniciantes de programação como para desenvolvedores que já possuem conhecimento de programação, mas desejam se aprimorar no mundo da programação Java.
-
-A tutoria Java possui a trilha para iniciantes, bem como a trilha para Spring Boot (MVC e REST).
-
-(O conteúdo desta tutoria ainda está em construção)
-
-### Tutoria Lua (recomendada para crianças e adolescentes)
-
-Especialmente para o público infanto-juvenil que deseja dar seus primeiros passos na programação, oferecemos também uma tutoria da linguagem de programação brasileira Lua, que é uma ótima porta de entrada para o mundo da programação.
-
-A tutoria Lua possui uma trilha iniciante, bem como uma trilha para desenvolvimento de jogos em Lua e também a trilha de desenvolvimento com a *Lua C API*.
-
-(O conteúdo desta tutoria ainda está em construção)
-
 <hr>
 
 ## Tech Stack/Portfólio
