@@ -61,3 +61,11 @@ Estas são algumas das *stacks* com as quais trabalhei significativamente desde 
     + Lua C API
 - Ecossistema Lua - **Intermediário**
     + Love2D
+- Ambiente AWS - **Avançado**
+    + AWS Glue
+    + AWS Lambda
+    + AWS S3
+- Ambiente GCP - **Avançado**
+    + Google Cloud Storage
+    + Cloud Run
+    + Artifact Registry
