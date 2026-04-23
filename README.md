@@ -53,6 +53,10 @@ Estas são algumas das *stacks* com as quais trabalhei significativamente desde 
     + Flutter
 - Banco de Dados (SQL) → **Avançado**
     + MySQL
+    + PostgreSQL
+- Banco de Dados Não Relacionado (NoSQL) → **Iniciante**
+    + MongoDB
+    + Google Firestore
 - Ecossistema C/C++ → **Intermediário**
     + Python C-Extensions
     + Lua C API
