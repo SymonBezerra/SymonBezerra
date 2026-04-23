@@ -1,7 +1,7 @@
 # Symon Bezerra da Nóbrega
 ## Instagram: @symon_bezerra_
 
-Última atualização do `README`: 31 out. 2025.
+Última atualização do `README`: 23 abr 2026.
 
 ## Informações Básicas
 
@@ -17,7 +17,6 @@
 - Por falar em linguagens de programação, conheço várias e amo aprender sobre linguagens novas, mas a linguagem que tenho me dedicado mais e sinto que realmente domino é a linguagem Python.
 - Consigo ser *tech agnostic*, ou seja, não tenho dificuldade para trabalhar com tecnologias novas. Posso ser, no entanto, resistente a fluxos de trabalhos distintos daquilo que estou acostumado.
 - Amo escrever em *markdown*. Sempre arrumo uma desculpa para fazê-lo, inclusive este `README`. Meu caderno de oração também está em formato *markdown*.
-- Sou missionário da Comunidade Católica Shalom, como Comunidade de Aliança, na missão de Patos, Paraíba.
 - Sou músico, toco alguns instrumentos, como violão, teclado, cajón, e também canto (sou tenor).
 
 <hr>
