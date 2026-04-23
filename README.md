@@ -16,7 +16,6 @@
 - Sou autista, nível 1 de suporte, com TDAH comórbido, diagnosticado aos 22 anos de idade. Talvez isso explique meus hiperfocos.
 - Por falar em linguagens de programação, conheço várias e amo aprender sobre linguagens novas, mas a linguagem que tenho me dedicado mais e sinto que realmente domino é a linguagem Python.
 - Consigo ser *tech agnostic*, ou seja, não tenho dificuldade para trabalhar com tecnologias novas. Posso ser, no entanto, resistente a fluxos de trabalhos distintos daquilo que estou acostumado.
-- Amo escrever em *markdown*. Sempre arrumo uma desculpa para fazê-lo, inclusive este `README`. Meu caderno de oração também está em formato *markdown*.
 - Sou músico, toco alguns instrumentos, como violão, teclado, cajón, e também canto (sou tenor).
 
 <hr>
