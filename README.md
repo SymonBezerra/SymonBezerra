@@ -1,7 +1,7 @@
 # Symon Bezerra da Nóbrega
 ## Instagram: @symon_bezerra_
 
-Última atualização do `README`: 23 abr 2026.
+Última atualização do `README`: 25 abr 2026.
 
 ## Informações Básicas
 
@@ -25,6 +25,7 @@
 Estas são algumas das *stacks* com as quais trabalhei significativamente desde que migrei para a área de computação.
 
 - Ecossistema Python → **Avançado**
+    + Django
     + Flask
     + FastAPI
     + Flet (Flutter)
