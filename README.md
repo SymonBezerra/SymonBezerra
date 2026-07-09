@@ -36,14 +36,16 @@ Estas são algumas das *stacks* com as quais trabalhei significativamente desde 
     + Plotly
     + Dash
     + Pygame
-- Ecossistema PHP → **Intermediário**
+    + Apache Airflow
+- Ecossistema PHP → **Avançado**
     + Laravel
-    + Zend Framework
-- Ecossistema JavaScript/TypeScript (Frontend) → **Iniciante**
+    + Zend\Laminas
+    + Slim
+- Ecossistema JavaScript/TypeScript (Frontend) → **Avançado**
     + React
     + Alpine
     + Vue
-- Ecossistema JavaScript/TypeScript (Backend) → **Intermediário**
+    + Bun
     + NestJS
 - Ecossistema Java → **Intermediário/Avançado**
     + Spring Boot
@@ -54,7 +56,7 @@ Estas são algumas das *stacks* com as quais trabalhei significativamente desde 
 - Banco de Dados (SQL) → **Avançado**
     + MySQL
     + PostgreSQL
-- Banco de Dados Não Relacionado (NoSQL) → **Iniciante**
+- Banco de Dados Não Relacionado (NoSQL) → **Avançado**
     + MongoDB
     + Google Firestore
 - Ecossistema C/C++ → **Intermediário**
